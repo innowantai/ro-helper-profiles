@@ -20,16 +20,16 @@
         "moduleRelativeAddress": "Ragexe.exe+0x11DB4B8"
       },
       "hp": {
-        "moduleRelativeAddress": "Ragexe.exe+0x1352080"
+        "moduleRelativeAddress": "Ragexe.exe+0x11D8CBC"
       },
       "sp": {
-        "moduleRelativeAddress": "Ragexe.exe+0x1352088"
+        "moduleRelativeAddress": "Ragexe.exe+0x11DB3D0"
       },
       "x": {
-        "moduleRelativeAddress": "Ragexe.exe+0x1352210"
+        "moduleRelativeAddress": "Ragexe.exe+0x11D4DD8"
       },
       "y": {
-        "moduleRelativeAddress": "Ragexe.exe+0x1352214"
+        "moduleRelativeAddress": "Ragexe.exe+0x11D4E14"
       }
     }
   }
