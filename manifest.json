@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "generatedUtc": "2026-09-13T00:00:00Z",
+  "profiles": [
+    {
+      "gameSha256": "96c3598e7d22a7fcf683847451ea8dd199af9b4335395e9c5a83eb792ba547f8",
+      "profileUrl": "https://raw.githubusercontent.com/innowantai/ro-helper-profiles/main/candidates/96c3598e7d22a7fcf683847451ea8dd199af9b4335395e9c5a83eb792ba547f8.json",
+      "profileSha256": "afc23cd4cdc6dbf9dac24865ec0a467a9fb81f2cf1dd6647500e4cd2fed62465",
+      "validationStatus": "candidate"
+    }
+  ]
+}

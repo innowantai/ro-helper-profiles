@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "validationStatus": "candidate",
+  "executable": {
+    "fileName": "Ragexe.exe",
+    "architecture": "x86",
+    "sha256": "96c3598e7d22a7fcf683847451ea8dd199af9b4335395e9c5a83eb792ba547f8"
+  },
+  "parameters": {
+    "map": {
+      "textEncoding": "UTF-8",
+      "selectedAddress": {
+        "moduleRelativeAddress": "Ragexe.exe+0xDF1760"
+      }
+    },
+    "textEncoding": "UTF-8",
+    "pointerSize": 4,
+    "addresses": {
+      "name": {
+        "moduleRelativeAddress": "Ragexe.exe+0x11DB4B8"
+      },
+      "hp": {
+        "moduleRelativeAddress": "Ragexe.exe+0x1352080"
+      },
+      "sp": {
+        "moduleRelativeAddress": "Ragexe.exe+0x1352088"
+      },
+      "x": {
+        "moduleRelativeAddress": "Ragexe.exe+0x1352210"
+      },
+      "y": {
+        "moduleRelativeAddress": "Ragexe.exe+0x1352214"
+      }
+    }
+  }
+}
